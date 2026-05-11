@@ -16,6 +16,12 @@ hot brands, and predicting January 2023 top sellers.
 
 ---
 
+## Data
+Data provided by industry partner under NDA. 
+Raw data is not included in this repository.
+
+---
+
 ## Pipeline
 
 ```
